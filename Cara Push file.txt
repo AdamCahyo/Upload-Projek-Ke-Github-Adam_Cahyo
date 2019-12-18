@@ -1,0 +1,10 @@
+1.CLONE KE HTDOCS:
+2.PUSH PROJECT
+PUSH=DORONG=UPLOAD
+
+-git init
+-git add *
+-git commit -m "Komentar_apa"
+-BUAT TERLEBIH DAHULU REPO DI GIT
+-git remote add origin link https
+-git push origin master
